@@ -1,2 +1,5 @@
 get th e user data.........
 pricess the data
+
+
+create a avatar for user
